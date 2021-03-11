@@ -1,2 +1,2 @@
-# ML_MGR_datasets
+# ML_MGR_FinalProject
 Final Project
